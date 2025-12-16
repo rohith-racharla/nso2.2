@@ -1,1 +1,1 @@
-# nso2.2
+This is just a test repository, nothing serious.
